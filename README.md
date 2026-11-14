@@ -50,12 +50,12 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=devlucas-tec&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img height="180" src="https://raw.githubusercontent.com/devlucas-tec/devlucas-tec/output/github-stats.svg" alt="GitHub Stats" />
 <img height="180" src="https://streak-stats.demolab.com/?user=devlucas-tec&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 <br><br>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=devlucas-tec&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+<img width="100%" src="https://raw.githubusercontent.com/devlucas-tec/devlucas-tec/output/activity-graph.svg" alt="Activity Graph" />
 
 <br><br>
 
